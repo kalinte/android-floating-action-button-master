@@ -18,9 +18,9 @@
     <declare-styleable name="FloatingActionsMenu">
         <attr name="fab_bitmap" format="reference"/>
         <attr name="fab_addButton_icon" format="reference"/>
-        <attr name="fab_addButton_expanded_rotation" format="reference"/>
-        <attr name="fab_addButton_collapsed_rotation" format="reference"/>
-        <attr name="fab_addButton_rotation_duration" format="reference"/>
+        <attr name="fab_addButton_expanded_rotation" format="float"/>
+        <attr name="fab_addButton_collapsed_rotation" format="float"/>
+        <attr name="fab_addButton_rotation_duration" format="integer"/>
         <!--update rotation-->
         <attr name="fab_rotation" format="float"/>
         <attr name="fab_addButtonColorPressed" format="color"/>

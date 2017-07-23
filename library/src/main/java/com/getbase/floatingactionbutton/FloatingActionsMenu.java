@@ -25,11 +25,7 @@ import android.view.animation.Interpolator;
 import android.view.animation.OvershootInterpolator;
 import android.widget.TextView;
 
-/**
- * Author : ddz
- * Creation time   : 17.4.28 10:07
- * Fix time   :  17.4.28 10:07
- */
+
 
 public class FloatingActionsMenu extends ViewGroup {
 

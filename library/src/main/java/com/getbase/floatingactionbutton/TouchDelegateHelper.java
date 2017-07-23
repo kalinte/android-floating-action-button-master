@@ -1,9 +1,5 @@
 package com.getbase.floatingactionbutton;
 
-/**
- * 由Administrator于2017-07-23创建.
- * 作用：
- */
 
 import android.graphics.Rect;
 import android.support.annotation.NonNull;
@@ -13,13 +9,8 @@ import android.view.View;
 
 import java.util.ArrayList;
 
-/**
- * Author : ddz
- * Creation time   : 17.4.28 10:27
- * Fix time   :  17.4.28 10:27
- */
 
-// TODO: 17.4.28 扩大View的点击范围·
+
 public class TouchDelegateHelper extends TouchDelegate {
 
     private static final Rect USELESS_RECT = new Rect();

@@ -28,11 +28,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 
 
-/**
- * Author : ddz
- * Creation time   : 17.4.24 18:21
- * Fix time   :  17.4.24 18:21
- */
+
 
 public class FloatingActionButton extends ImageButton {
 

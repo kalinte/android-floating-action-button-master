@@ -11,11 +11,7 @@ import android.support.annotation.ColorRes;
 import android.support.annotation.DrawableRes;
 import android.util.AttributeSet;
 
-/**
- * Author : ddz
- * Creation time   : 17.4.28 12:14
- * Fix time   :  17.4.28 12:14
- */
+
 
 public class AddFloatingActionButton extends FloatingActionButton {
 
